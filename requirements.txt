@@ -1,0 +1,8 @@
+pytube
+Pillow
+pywin32
+ffmpeg-python
+subprocess.run   
+re              
+threading        
+tkinter          
